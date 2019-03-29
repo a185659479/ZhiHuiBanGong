@@ -6,10 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6da311b-c91b-4330-80b3-d9c5d5fe2994" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dao/UserDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/service/impl/UserDaoImpl.java" beforeDir="false" />
-    </list>
+    <list default="true" id="c6da311b-c91b-4330-80b3-d9c5d5fe2994" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,8 +49,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dao/UserDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+            <state relative-caret-position="156">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -422,7 +419,7 @@
       <option name="presentableId" value="Default" />
       <updated>1553826783501</updated>
       <workItem from="1553826787481" duration="8126000" />
-      <workItem from="1553845776810" duration="1035000" />
+      <workItem from="1553845776810" duration="1276000" />
     </task>
     <task id="LOCAL-00001" summary="0329">
       <created>1553845975084</created>
@@ -431,15 +428,21 @@
       <option name="project" value="LOCAL" />
       <updated>1553845975084</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ZhiHuiBanGong0329">
+      <created>1553846898061</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1553846898061</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9161000" />
+    <option name="totallyTimeSpent" value="9402000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21162046" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -484,7 +487,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="0329" />
-    <option name="LAST_COMMIT_MESSAGE" value="0329" />
+    <MESSAGE value="ZhiHuiBanGong0329" />
+    <option name="LAST_COMMIT_MESSAGE" value="ZhiHuiBanGong0329" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
@@ -577,8 +581,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dao/UserDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        <state relative-caret-position="156">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
