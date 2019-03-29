@@ -13,6 +13,8 @@ public class User {
     private String role;
     private String state;
 
+
+
     public int getId() {
         return id;
     }
@@ -20,6 +22,8 @@ public class User {
     public void setId(int id) {
         this.id = id;
     }
+
+
 
     public String getName() {
         return name;
@@ -57,13 +61,17 @@ public class User {
         return role;
     }
 
+
+
     public void setRole(String role) {
         this.role = role;
     }
 
+
     public String getState() {
         return state;
     }
+
 
     public void setState(String state) {
         this.state = state;
